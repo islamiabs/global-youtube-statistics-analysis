@@ -115,7 +115,7 @@ jupyter notebook notebooks/analysis.ipynb
 
 ## 👤 Author
 
-Made by **[Your Name]** as part of a Data Science portfolio.
+Made by Islamia Biloghe Safiou as part of a Data Science portfolio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/YOUR_USERNAME)
