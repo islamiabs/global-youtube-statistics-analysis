@@ -1,3 +1,4 @@
+
 # 🎬 Global YouTube Statistics — Data Science Analysis
 
 > **Portfolio Project** | Python · Pandas · Plotly · Seaborn | Dataset: Top 995 YouTube Channels (2023)
@@ -118,3 +119,7 @@ Made by **[Your Name]** as part of a Data Science portfolio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/YOUR_USERNAME)
+
+# global-youtube-statistics-analysis
+Data analysis project exploring the world's top YouTube channels using Python, Pandas, Plotly, and Seaborn.
+
